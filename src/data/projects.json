@@ -1,7 +1,7 @@
 [
     {
-      "title": "Anime Style Transfer",
-      "desc": "Fast neural style transfer to anime-like frames.",
+      "title": "Coconut Age Classification",
+      "desc": "Young, Mature, Old classification on coconut images.",
       "link": "https://github.com/yourname/anime-style-transfer",
       "image": "/project-anime-style.jpg",
       "tags": ["PyTorch", "FastAPI", "React"]

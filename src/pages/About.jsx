@@ -27,7 +27,7 @@ export default function About() {
         <h1 className="font-anime text-4xl neon-text">About</h1>
         <p className="mt-3 text-zinc-300">
           I’m {store.site.name}, a {store.site.role}. I enjoy building ML-powered features and
-          smooth, anime-inspired web apps. I value clean architecture, performance, and great UX.
+          smooth, minimalist-inspired web apps. I value clean architecture, performance, and great UX.
         </p>
       </motion.div>
 

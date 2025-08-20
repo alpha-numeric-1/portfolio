@@ -1,21 +1,21 @@
 [
     {
-      "company": "Open Source",
-      "role": "Contributor",
-      "period": "2024 — Present",
-      "summary": "Contributed to ML tooling and UI libraries.",
+      "company": "Provincial Government of Pangasinan",
+      "role": "Software Developer Intern",
+      "period": "Feb 2025 — May 2025",
+      "summary": "Contributed to HR Office by making web apps.",
       "highlights": [
-        "Implemented data pipelines for training workflows",
-        "Improved component accessibility and performance"
+        "Integrated software features such as applicant portal and vacancy publication generator ",
+        "Improved HR hiring processes"
       ],
-      "tags": ["Python", "React", "MLOps"]
+      "tags": ["PHP", "JavaScript", "Python", "Html", "CSS"]
     },
     {
-      "company": "Freelance",
-      "role": "ML Engineer",
-      "period": "2023 — 2024",
-      "summary": "Built prototypes for NLP and CV tasks.",
-      "highlights": ["Custom training loops", "Deployment on AWS"],
-      "tags": ["PyTorch", "NLP", "CV", "AWS"]
+      "company": "Commission",
+      "role": "Systems Developer",
+      "period": "2024 — Present",
+      "summary": "Built prototypes, systems, applications, and web app for small businesses and individuals.",
+      "highlights": ["Fullstack development", "Deployment on cloud", "E-commerce", "AI integration like recommendation system, computer vision, and LLM"],
+      "tags": ["Python","PHP","JavaScript", "React", "TensorFLow",  "PyTorch", "NLP", "CV", "AWS"]
     }
   ]

@@ -33,19 +33,19 @@ export default function Home() {
               <div className="h-full w-full rounded-full bg-ink flex items-center justify-center">
                 {/* Replace emoji with your avatar at /public/avatar.png if you have one */}
                 <img
-                  src="/avatar.png"
+                  src="public/profile.jpg"
                   alt={`${store.site.name} avatar`}
                   className="h-full w-full object-cover rounded-full"
                   onError={(e) => {
                     e.currentTarget.style.display = 'none';
                   }}
                 />
-                <span className="text-5xl select-none">🌸</span>
+                <span className="text-5xl select-none"></span>
               </div>
             </div>
 
             <h2 className="mt-4 font-anime text-2xl neon-text">{store.site.name}</h2>
-            <p className="font-jp text-sakura mt-1">開発者 • 機械学習</p>
+            <p className="font-jp text-sakura mt-1">Entry Level</p>
 
             <div className="mt-5 grid grid-cols-3 gap-3">
               <div className="rounded-md border border-white/10 px-3 py-2">

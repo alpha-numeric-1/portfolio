@@ -33,7 +33,7 @@ export default function Contact() {
       <motion.div variants={fadeInUp} initial="hidden" animate="show">
         <h1 className="font-anime text-4xl neon-text">Contact</h1>
         <p className="mt-3 text-zinc-300">
-          Feel free to reach out for collaboration, freelancing, or just to say hi!
+          Feel free to reach out for collaboration, freelancing, job offer, or just to say hi!
         </p>
       </motion.div>
 
