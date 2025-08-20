@@ -1,0 +1,16 @@
+[
+    {
+      "title": "Anime Style Transfer",
+      "desc": "Fast neural style transfer to anime-like frames.",
+      "link": "https://github.com/yourname/anime-style-transfer",
+      "image": "/project-anime-style.jpg",
+      "tags": ["PyTorch", "FastAPI", "React"]
+    },
+    {
+      "title": "Portfolio v1",
+      "desc": "This website—animated, data-driven, and scalable.",
+      "link": "https://yourdomain.dev",
+      "image": "/project-portfolio.jpg",
+      "tags": ["Vite", "Tailwind", "Framer Motion"]
+    }
+  ]

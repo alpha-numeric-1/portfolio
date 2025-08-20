@@ -1,0 +1,9 @@
+[
+    { "name": "Python", "level": "Advanced", "category": "ML", "icon": "🐍" },
+    { "name": "TensorFlow", "level": "Intermediate", "category": "ML", "icon": "🧠" },
+    { "name": "PyTorch", "level": "Intermediate", "category": "ML", "icon": "🔥" },
+    { "name": "React", "level": "Advanced", "category": "Frontend", "icon": "⚛️" },
+    { "name": "Node.js", "level": "Intermediate", "category": "Backend", "icon": "🟩" },
+    { "name": "TypeScript", "level": "Intermediate", "category": "Frontend", "icon": "🔷" },
+    { "name": "Tailwind CSS", "level": "Advanced", "category": "Frontend", "icon": "🌊" }
+  ]

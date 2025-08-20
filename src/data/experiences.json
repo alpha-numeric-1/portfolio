@@ -1,0 +1,21 @@
+[
+    {
+      "company": "Open Source",
+      "role": "Contributor",
+      "period": "2024 — Present",
+      "summary": "Contributed to ML tooling and UI libraries.",
+      "highlights": [
+        "Implemented data pipelines for training workflows",
+        "Improved component accessibility and performance"
+      ],
+      "tags": ["Python", "React", "MLOps"]
+    },
+    {
+      "company": "Freelance",
+      "role": "ML Engineer",
+      "period": "2023 — 2024",
+      "summary": "Built prototypes for NLP and CV tasks.",
+      "highlights": ["Custom training loops", "Deployment on AWS"],
+      "tags": ["PyTorch", "NLP", "CV", "AWS"]
+    }
+  ]
