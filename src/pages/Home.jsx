@@ -33,7 +33,7 @@ export default function Home() {
               <div className="h-full w-full rounded-full bg-ink flex items-center justify-center">
                 {/* Replace emoji with your avatar at /public/avatar.png if you have one */}
                 <img
-                  src="public/profile.jpg"
+                  src="assets/profile.jpg"
                   alt={`${store.site.name} avatar`}
                   className="h-full w-full object-cover rounded-full"
                   onError={(e) => {
